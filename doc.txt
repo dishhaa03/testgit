@@ -1,0 +1,7 @@
+I tried using git for the first time...
+This file was created manually in the "testgit" folder
+and it is to be uploaded in the git repository
+
+function already performed before:
+git clone (url of git repository)
+this function performed in cmd in the new folder of the D drive. 
