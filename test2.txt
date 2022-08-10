@@ -1,0 +1,4 @@
+This is the second text file...which has to be uploaded on git..
+first step will be to add this  file (using git bash)
+then commit the files and add any comment or description
+then push your files into the repository.
